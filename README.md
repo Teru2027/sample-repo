@@ -1,2 +1,2 @@
-# sample-repo
-GIt practice
+# sample-rep
+更新
